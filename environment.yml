@@ -1,9 +1,0 @@
-name: env-name-here-does-not-matter
-channels:
-  - conda-forge
-  - bioconda
-  - defaults
-  - astrobiomike
-dependencies:
-  - python =3.7
-  - gtotree
