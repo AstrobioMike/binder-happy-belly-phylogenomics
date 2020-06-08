@@ -120,4 +120,4 @@ fi
 export TZ="PDT"
 
 # formatting prompt
-export PS1="\[$(tput setaf 3)\][\$PWD]\[$(tput sgr0)\]$ "
+export PS1="\[$(tput setaf 4)\][\$PWD]\[$(tput sgr0)\]$ "
